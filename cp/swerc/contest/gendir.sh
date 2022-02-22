@@ -1,0 +1,13 @@
+cd a && touch a.cpp &&  cd ..;
+cd b && touch b.cpp &&  cd ..;
+cd c && touch c.cpp &&  cd ..;
+cd d && touch d.cpp &&  cd ..;
+cd e && touch e.cpp &&  cd ..;
+cd f && touch f.cpp &&  cd ..;
+cd g && touch g.cpp &&  cd ..;
+cd h && touch h.cpp &&  cd ..;
+cd i && touch i.cpp &&  cd ..;
+cd l && touch l.cpp &&  cd ..;
+cd m && touch m.cpp &&  cd ..;
+cd n && touch n.cpp &&  cd ..;
+cd o && touch o.cpp &&  cd ..;
